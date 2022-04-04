@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0px;
+    background: mediumaquamarine;
+    font-family: 'Open Sans', sans-serif;
+    /* background-image: url('https://source.unsplash.com/random/?city,night'); */
+}
+
+.card {
+    background: orchid;
+    padding: 1em;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 400px;
+    margin: 1em;
+}
+#secondcard{
+    margin-top: 35%;
+    display: flex;
+    flex-direction: row;
+}
